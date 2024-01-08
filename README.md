@@ -5,6 +5,10 @@
 - 🎓 Currently pursuing a bachelor's degree in computer science
 - 🚀 Aiming to become a fully fledged - developer
 
+### Projects
+- **Project 1: [Pong](https://github.com/Albertcheong/pong)**
+  - A simple pong game with the pygame framework
+
 ### My Socials
 <a href="https://www.instagram.com/akun_si_albert/" target="_blank" rel="noopener noreferrer">
    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" width="40px" align="center" alt="instagram"/>
