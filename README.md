@@ -14,7 +14,7 @@
    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" width="40px" align="center" alt="Twitter"/>
 </a>
 
-<a href="https://wa.me/085156462870" target="_blank" rel = "noopener noreferrer">
+<a href="https://wa.me/6285156462870" target="_blank" rel = "noopener noreferrer">
    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/whatsapp.svg" width="40px" align="center" alt="Whatsapp"/>
 </a>
 
