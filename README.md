@@ -3,7 +3,7 @@
 ### About Me
 - 🐤 A beginner in programming
 - 🕹️ Interested in game development
-- 🎓 Currently pursuing a bachelor's degree in computer science
+- 🎓 Currently pursuing a bachelor's degree in Computer Science
 - 🚀 Aiming to become a fully fledged - developer
 
 ### My Socials
