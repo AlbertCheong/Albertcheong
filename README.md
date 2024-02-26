@@ -18,9 +18,10 @@
    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/whatsapp.svg" width="40px" align="center" alt="Whatsapp"/>
 </a>
 
-### Languages and Tools 
+### Languages and Tools
 
-[![image](https://cdn.worldvectorlogo.com/logos/c.svg)](#) {: style="pointer-events: none; width: 40px; display: block; margin: 0 auto;"}
+[<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40px" />](#) {: style="pointer-events: none;"}
+
 
 [![image](https://cdn.worldvectorlogo.com/logos/python-5.svg)](#) {: style="pointer-events: none; width: 40px; display: block; margin: 0 auto;"}
 
