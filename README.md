@@ -20,7 +20,7 @@
 
 ### Languages and Tools
 
-[<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40px" />](#) {: style="pointer-events: none;"}
+[<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40px" />]
 
 
 [![image](https://cdn.worldvectorlogo.com/logos/python-5.svg)](#) {: style="pointer-events: none; width: 40px; display: block; margin: 0 auto;"}
