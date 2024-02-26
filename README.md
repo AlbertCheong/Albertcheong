@@ -20,4 +20,4 @@
 
 ### Languages and Tools 
 
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40px" align="center"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40px" align="center"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40px" align="center"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="40px" align="center" />
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40px" align="center" style="pointer-events: none;"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40px" align="center" style="pointer-events: none;"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40px" align="center" style="pointer-events: none;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="40px" align="center" style="pointer-events: none;"/>
