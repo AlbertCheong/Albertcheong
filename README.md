@@ -1,5 +1,4 @@
 ## Profile
-
 ### About Me
 - 🐤 A beginner in programming
 - 🕹️ Interested in game development
