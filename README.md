@@ -1,9 +1,9 @@
 ## Profile
 ### About Me
-- 🐤 A beginner in programming
-- 🕹️ Interested in game development
-- 🎓 Currently pursuing a bachelor's degree in Computer Science
-- 🚀 Aiming to become a fully fledged - developer
+- A beginner in programming 🐤
+- Interested in game development 🕹️
+- Currently pursuing a bachelor's degree in Computer Science 🎓
+- Aiming to become a fully fledged developer 🚀
 
 ### My Socials
 <a href="https://www.instagram.com/akun_si_albert/" target="_blank" rel="noopener noreferrer">
