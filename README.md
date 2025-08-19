@@ -10,7 +10,7 @@
    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" width="40px" align="center" title="instagram"/>
 </a>
 
-<a href="https://twitter.com/Akun_si_albert" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/AkunSiAlbert)" target="_blank" rel="noopener noreferrer">
    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" width="40px" align="center" title="Twitter"/>
 </a>
 
