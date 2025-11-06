@@ -24,6 +24,3 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" width="85px" title="golang"/>](#)
 [<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="65px" title="nodejs" />](#) 
 [<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" width="40px" title="mysql"/>](#) 
-[<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40px" title="vscode"/>](#) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="40px" title="visual studio 2022" />](#)
-
