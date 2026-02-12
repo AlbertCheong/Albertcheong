@@ -26,4 +26,4 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="45" title="Docker"/>](#)
 [<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="40" title="Git"/>](#)
 
-![Typescript](/assets/typescript.svg)
+[![Typescript](/assets/typescript.svg)](https://www.typescriptlang.org/)
