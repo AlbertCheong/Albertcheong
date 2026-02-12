@@ -1,0 +1,1 @@
+All of the provided svg's are in a URL-encoded data URI format

@@ -25,3 +25,5 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" title="Python"/>](#)
 [<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="45" title="Docker"/>](#)
 [<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="40" title="Git"/>](#)
+
+![Typescript](/assets/typescript.svg)
