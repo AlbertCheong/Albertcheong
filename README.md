@@ -1,9 +1,7 @@
 ## Profile
-### About Me
-- A beginner in programming
-- Interested in Backend Development 
-- Currently pursuing a bachelor's degree in Computer Science
-- Aiming to become a fully fledged developer
+A developer from Indonesia, currently a computer science undergraduate.
+
+Please excuse slow responses...
 
 ### My Socials
 [![https://instagram.com/akun_si_albert](./assets/instagram.svg)](https://instagram.com/akun_si_albert)
