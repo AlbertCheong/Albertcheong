@@ -1,5 +1,5 @@
 ## Profile
-A developer from Indonesia, currently a computer science undergraduate.
+A developer from Indonesia, currently a Computer Science Undergraduate.
 
 Please excuse slow responses...
 
