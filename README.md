@@ -1,7 +1,7 @@
 ## Profile
 A developer from Indonesia, currently a Computer Science Undergraduate.
 
-Please excuse slow responses...
+Please excuse slow responses and barren commit history...
 
 ### My Socials
 [![https://instagram.com/akun_si_albert](./assets/instagram.svg)](https://instagram.com/akun_si_albert)
